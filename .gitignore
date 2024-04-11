@@ -1,0 +1,84 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# MemoryCaptures can get excessive in size.
+# They also could contain personal data, so we do not need them in repository.
+/[Mm]emoryCaptures/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+![Aa]ssets/**/*.meta
+
+# Auto generated VS/MD solution and project files
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.pidb.meta
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Compiled Files
+*.apk
+*.unitypackage
+*.mp4
+
+# OS-generated files
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Desktop.ini
+
+# Visual Studio Code generated files
+.vscode/
+
+# Rider generated files
+.idea/
+*.sln.iml
+
+# Rider project files
+*.csproj.user
+
+# Build folders
+/[Bb]uild/
+/[Bb]uilds/
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# Photon real-time generated file
+*.log
+
+# Packed Play Mode build generated files
+*.apk
+
+# Android auto generated files
+/libs/armeabi-v7a/
+/libs/x86/
+/libs/arm64-v8a/
+/libs/x86_64/
