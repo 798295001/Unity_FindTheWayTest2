@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class TestFindTheWay : MonoBehaviour
 {
-    public bool  Done = false;
+    public bool  Done = true;
 
     // Start is called before the first frame update
     void Start()
