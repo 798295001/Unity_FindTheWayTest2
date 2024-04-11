@@ -5,6 +5,7 @@ using UnityEngine;
 public class TestFindTheWay : MonoBehaviour
 {
     public bool  Done = true;
+    public string playerName = "1";
 
     // Start is called before the first frame update
     void Start()
